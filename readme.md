@@ -1,0 +1,1 @@
+A simple plugin that opens the Global Search via URI, currently just for personal use.
