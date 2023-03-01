@@ -26,7 +26,8 @@ namespace URISearch
             
             PlayniteApi.UriHandler.RegisterSource("search", (args) =>
             {
-                PlayniteApi.MainView.OpenSearch("");
+                //just treat the args as search text for now.
+                PlayniteApi.MainView.OpenSearch(args.Arguments.Length == 0 ? "" : string.Join(" ", args.Arguments));
             }
 
             );
