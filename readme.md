@@ -6,4 +6,5 @@ The current syntax: `playnite://search/`. Any extra arguments sent afterwards (`
 
 Why? Because I personally use a different windows command palette (PowerToys Run) and don't want multiple hotkeys for similar things, so I can just open one in the other:
 
-![image](https://user-images.githubusercontent.com/9774133/222518720-d86f24ce-6c3e-40f2-bdd8-320173014def.png)
+
+![PowerToys PowerLauncher_U5cuU-1677829709](https://user-images.githubusercontent.com/9774133/222662520-78b0a26d-fa5c-47b3-aeae-ca2d82b0c479.png)
