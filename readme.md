@@ -1,3 +1,8 @@
+### Archiving due to this being [implemented in Playnite](JosefNemec/Playnite@0d9cd61838f14f8e34a7a68abe08fac55c0b8392).
+
+
+
+
 A simple plugin that opens the Global Search via URI, currently just for personal use.
 
 
