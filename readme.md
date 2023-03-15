@@ -1,4 +1,4 @@
-### Archiving due to this being [implemented in Playnite](JosefNemec/Playnite@0d9cd61838f14f8e34a7a68abe08fac55c0b8392).
+### Archiving due to this being [implemented in Playnite](../../../../JosefNemec/Playnite/commit/0d9cd61838f14f8e34a7a68abe08fac55c0b8392).
 
 
 
